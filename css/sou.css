@@ -1,0 +1,83 @@
+﻿@charset "utf-8";
+
+
+/***********/
+/*搜索表单*/
+/**/
+.search_form {
+	width: 460px;
+	height: 43px;
+	position: absolute;
+	left: 879px;
+	top: 55px;
+}
+.search_form {
+	    box-sizing: border-box;
+}
+.search_input {
+	background: url(/css/search_input.jpg) no-repeat left center;
+	border: 1px solid #DDDDDD;
+	border-right: none;
+	background-color:#FFF;
+	width: 330px;
+	height: 43px;
+	+height:22px;
+	line-height: 25px;
+	padding: 10px 15px 10px 40px;
+	float: left;
+	font-size: 14px;
+}
+
+
+.search_input:hover,.search_input:active,.search_input:focus{ border:1px solid #63B73D;}
+
+
+.search_btn {
+	border: none;
+	padding: 10px 20px 10px 20px;
+	background-color: #63B73D;
+	height: 43px;
+	line-height: 25px;
+	text-align: center;
+	display: block;
+	float: left;
+	color: #FFF;
+	font-size: 14px;
+	margin-right:5px;
+}
+.search_btn:hover {
+	background-color: #30A338;
+}
+/*搜索关键字*/
+.keyword {
+	clear: both;
+	color: #CCC;
+	font-size: 12px;
+	padding: 10px 0px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	margin:auto 1%;
+	+padding:0px;
+}
+.keyword strong {
+	color: #666;
+	font-weight: normal;
+}
+.keyword a, .keyword a:visited, .keyword a:link {
+	color:#00994C;
+	text-decoration: none;
+	margin: 0 5px;
+}
+.keyword a:hover, .keyword a:active {
+	color: #FC5200;
+	text-decoration: underline;
+}
+
+
+
+
+/***********/
+/*菜单*/
+/**/
+

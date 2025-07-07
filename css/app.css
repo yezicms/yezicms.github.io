@@ -1,0 +1,86 @@
+.yeziad {position:relative;}
+.yeziad .xxxpc{display:block;}
+.yeziad .xxxh5{display:none;}
+.kefucss{font-size: 16px;font-weight: 900;}
+.hanggao{
+        margin-top: 28px;
+        font-size: .9em;
+        color: #999;
+    }
+@media only screen and (max-width: 900px){
+    .container {max-width: 100%;padding-right: 10px;padding-left: 10px;}
+    .ab-navbar .nav-list{padding:50px 15px;position: fixed;right: -280px;top:0;bottom: 0;width: 250px;margin-left:0;background: #ffffff;z-index: 99999;transition: all .3s ease;}
+    .ab-navbar .nav-list.show{right: 0px;}
+    .ab-navbar .nav-list > li{float: none;display: block;margin:8px 0;background-color: #f7f7f7;}
+    .ab-navbar .nav-list > li > a{height: 40px;line-height: 40px;}
+    .nav-list > li.current a{background-color:initial;}
+    .canvas-close {display:block;position: absolute;right: 15px;top: 18px;width:30px;height:30px;z-index: 99999;color: #000;transition: all .3s ease;}
+    .canvas-close i{font-size:25px;transition: all .3s ease;}
+    .nav-list.show li em.dot {position: absolute;top: 0;right: 0;width: 50px;height: 40px;text-align: center;cursor: pointer;line-height: 40px;}
+    .nav-list.show li em.dot i{font-size:18px;}
+    .ab-navbar .nav-list .sub-nav{background: #eaeaea;position: relative;box-shadow: none;text-align: center;}
+    .ab-navbar .nav-list li:hover > .sub-nav{display:none;}
+    .ab-navbar .nav-list .sub-nav p:last-child{padding-bottom: 10px;}
+    .ab-navbar .nav-list .sub-nav p a{  width: auto;display: block;margin: 10px 10px 0 10px;background-color: #f7f7f7;}
+    .ab-overlay{position: fixed;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,.7);z-index: 9998;-moz-transition: .3s;-o-transition: .3s;-webkit-transition: .3s;transition: .3s;}
+    .nav-right{font-size: 18px;position: absolute;right: 10px;}
+    .nav-right .nav-search,.nav-right .nav-tougao,.nav-right .nav-cart{padding:3px 5px;width: 56px;}
+    .nav-right .nav-button{display:block;padding:20px 0 15px 0px;}
+    .nav-right .nav-button a{padding:7px 0 !important}
+    .search-box .container{max-width:100%;}
+    .search-input{width:80%}
+    .search-btn{width:20%}
+    .search-button{position: absolute;right: 15px;top: 18px;display: block !important;}
+    .search-button a{color: #2d3757;}
+    .search-button .fa{font-size: 18px;}
+    .search-box{padding:8.5px 30px 8.5px 0;}
+    .search-box.show{top:7px;}
+    .search-box .search-input, .search-box .search-btn{height: 35px;}
+    .search-close{font-size: 24px;top:-1px;right: -30px;}
+    
+    .hmFocus{margin-bottom:0.8rem;}
+    .abconleft,.abconright{width: 100%;}
+    .list-image {display: black;}
+	 .topic-list .topic {width:49%;margin:0 1% 12px}
+    .topic-list .topic:nth-child(odd) {margin-left:0}
+    .topic-list .topic:nth-child(2n+2) {margin-right:0}
+/*	.article-item {padding-bottom: 1.5rem;}*/
+    .article-item ul li .list-image,.article-item ul li .list-image a{width:100px;}
+    .article-item ul li .list-image img{height: 75px;}
+    .article-item ul li h2{line-height: 18px;margin-bottom: .6rem;}
+    .article-item ul li h2 a{font-size: 15px !important;font-weight: 500;display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;overflow:hidden;line-height:1.5;}
+	.article-item ul li .decs{display:none;}
+    .article-item ul li .decs p {font-size: 12px !important;}
+	.article-item ul li .meta-r-icon{display:none;}
+	.article-item ul li span:nth-child(2){float:right;margin-right:0px;}
+    .article-item ul li .text-xs{position:relative;display: block;margin-bottom: 0rem;}
+	.article-item ul li .post-tag{display:none;}
+    .d-none {display: none!important;}
+    .right-list .w-newsitem h3{font-size: 1.1rem;}
+    .hot-item li{padding: 8px 0;}
+    .grid-item li{width:100%;}
+    
+    .footer {width:100%;position:relative;clear:both;padding:20px 0 20px 0;}
+    .social-footer {float:none;text-align:center;margin-bottom:20px;}
+    .social-footer a {float:none;display:inline-block;}
+    .cd-popup-container {margin:10em auto;}
+    .nav-footer {clear:both;text-align:center;}
+    .footer .nav-footer a {font-size:14px;}
+    .links-footer,.copyright-footer {text-align:center;}
+    .dialog-content {width: 75%;}
+    
+    
+    .yeziad .xxxpc{display:none;}
+    .yeziad .xxxh5{display:block;}
+    .kefucss{font-size: 12px;font-weight: 900;}
+    .hanggao{
+        margin-top: 12px;
+        font-size: .9em;
+        color: #999;
+    }
+    
+    
+    
+    }
