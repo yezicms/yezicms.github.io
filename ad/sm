@@ -1,0 +1,73 @@
+
+
+需要用到的时候把下面代码用HTML/JS转换
+
+http://tool.chinaz.com/tools/html_js.aspx
+
+转换之后修改对应的JS文件即可
+
+
+
+
+//2024
+
+document.writeln("<div class=\'yeziad\'><div class=\'xxxpc\'><a href=\'#\' target=\'_blank\' style=\'width: 100% !important;height: 300px !important;display: block;\'><img src=\'/xcx.jpg\' style=\'width: 100% !important;height: 300px !important;display: block;\'></a></div></div>");
+document.writeln("<div class=\'yeziad\'><div class=\'xxxh5\'><a href=\'http://pic.k55.fun/zktx/h5/?uid=1\' target=\'_blank\' style=\'width: 100% !important;height: 250px !important;display: block;\'><img src=\'/ad/youh5.gif\' style=\'width: 100% !important;height: 250px !important;display: block;\'></a></div></div>");
+
+//2024
+
+document.writeln("<div class=\'yeziad\'><div class=\'xxxpc\'><a href=\'https://www.yisu.com/coupon?partner=Zx1FR\' target=\'_blank\' style=\'width: 100% !important;height: 80px !important;margin-bottom: 16px !important;display: block;\'><img src=\'/ad/hfpc2024.gif\' style=\'width: 100% !important;height: 80px !important;margin-bottom: 10px !important;display: block;\'></a></div></div>");
+document.writeln("<div class=\'yeziad\'><div class=\'xxxh5\'><a href=\'http://pic.k55.fun/zktx/h5/?uid=1\' target=\'_blank\' style=\'width: 100% !important;height: 80px !important;margin-bottom: 16px !important;display: block;\'><img src=\'/ad/hfh5.gif\' style=\'width: 100% !important;height: 80px !important;margin-bottom: 16px !important;display: block;\'></a></div></div>");
+
+//2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列表中部70*1198
+
+<link rel="stylesheet" href="/css/newad.css">
+<div class="gg123">
+<div class="iis7_topgg1">
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1395550247&amp;site=qq&amp;menu=yes" target="_blank" class="iis7_gg_gg_wz"><img src="/css/ad.gif"><div class="iis7_gg_gg_bs">广告</div></a></li>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1395550247&amp;site=qq&amp;menu=yes" target="_blank" class="iis7_gg_gg_wz"><img src="/css/ad.gif"><div class="iis7_gg_gg_bs">广告</div></a></li>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1395550247&amp;site=qq&amp;menu=yes" target="_blank" class="iis7_gg_gg_wz"><img src="/css/ad.gif"><div class="iis7_gg_gg_bs">广告</div></a></li>
+</div>
+</div>
+
+
+
+源码下载下面70*1198
+
+
+<link rel="stylesheet" href="/css/newad.css">
+<div class="gg123">
+<div class="iis7_topgg1">
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1395550247&amp;site=qq&amp;menu=yes" target="_blank" class="iis7_gg_gg_wz"><img src="/css/ad.gif"><div class="iis7_gg_gg_bs">广告</div></a></li>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1395550247&amp;site=qq&amp;menu=yes" target="_blank" class="iis7_gg_gg_wz"><img src="/css/ad.gif"><div class="iis7_gg_gg_bs">广告</div></a></li>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1395550247&amp;site=qq&amp;menu=yes" target="_blank" class="iis7_gg_gg_wz"><img src="/css/ad.gif"><div class="iis7_gg_gg_bs">广告</div></a></li>
+</div>
+</div>
+
+
+
+文章列表右边300*250
+
+<div style="width:300px;height:240px;margin: 10px 0px 0px 0px;"><a href="http://www.115ad.com" target="_blank"><img src="/images/ad3.jpg" width="300" height="250" border="0" /></a></div>
+
+
+
+文章左边210*222
+
+<div style="width:222px;height:220px;margin: 10px 0px 0px 0px;"><a href="http://www.115ad.com" target="_blank"><img src="/css/ad3.jpg" width="222" height="220" border="0" /></a></div>

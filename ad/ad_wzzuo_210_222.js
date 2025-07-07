@@ -1,0 +1,1 @@
+document.writeln("<div style=\'position: absolute;width: 150px !important;height: 150px !important;margin-left: 330px;margin-top: -10px;\'><a href=\'https://mp.weixin.qq.com/s/vkT2Q2Pu08Awgrdjl3uRzw\' target=\'_blank\'><img src=\'/images/aaa.gif\'></a></div>");
